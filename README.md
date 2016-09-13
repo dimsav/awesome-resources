@@ -1,9 +1,9 @@
 # Awesome dev resources
 
-# Testing
+### Testing
 
 - [The Tao of Testing](http://jasonpolites.github.io/tao-of-testing/)
 
-# Api
+### Api
 
 - [Consumer-Centric API Design](https://github.com/tlhunter/consumer-centric-api-design)
